@@ -1,0 +1,15 @@
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 3\Shopping List TA\Shopping List TA\bin\Debug\net6.0\Shopping List TA.exe
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 3\Shopping List TA\Shopping List TA\bin\Debug\net6.0\Shopping List TA.deps.json
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 3\Shopping List TA\Shopping List TA\bin\Debug\net6.0\Shopping List TA.runtimeconfig.json
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 3\Shopping List TA\Shopping List TA\bin\Debug\net6.0\Shopping List TA.dll
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 3\Shopping List TA\Shopping List TA\bin\Debug\net6.0\Shopping List TA.pdb
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 3\Shopping List TA\Shopping List TA\obj\Debug\net6.0\Shopping List TA.csproj.AssemblyReference.cache
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 3\Shopping List TA\Shopping List TA\obj\Debug\net6.0\Shopping List TA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 3\Shopping List TA\Shopping List TA\obj\Debug\net6.0\Shopping List TA.AssemblyInfoInputs.cache
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 3\Shopping List TA\Shopping List TA\obj\Debug\net6.0\Shopping List TA.AssemblyInfo.cs
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 3\Shopping List TA\Shopping List TA\obj\Debug\net6.0\Shopping List TA.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 3\Shopping List TA\Shopping List TA\obj\Debug\net6.0\Shopping List TA.dll
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 3\Shopping List TA\Shopping List TA\obj\Debug\net6.0\refint\Shopping List TA.dll
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 3\Shopping List TA\Shopping List TA\obj\Debug\net6.0\Shopping List TA.pdb
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 3\Shopping List TA\Shopping List TA\obj\Debug\net6.0\Shopping List TA.genruntimeconfig.cache
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 3\Shopping List TA\Shopping List TA\obj\Debug\net6.0\ref\Shopping List TA.dll
